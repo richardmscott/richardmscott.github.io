@@ -1,3 +1,8 @@
+---
+layout: page
+title: Richard's Development Blog
+---
+
 ## Richard's Development Blog
 
 <ul>
